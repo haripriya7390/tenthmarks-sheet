@@ -1,0 +1,92 @@
+body
+{
+    background-color: black;
+}
+.div1
+{
+background-color: white;
+width: 70%;
+align-content: center;
+margin-left: 10%;
+}
+.div2
+{
+    width: 90%;
+    border-style:double;
+    border-color: rgb(38, 38, 63);
+    background-color: rgb(240, 251, 251);
+    margin-left: 50px;
+    
+}
+.heading1
+{
+    margin-left: 25%;
+}
+.heading2
+{
+    margin-left: 40%;
+}
+#img1
+{
+    width: 250px;
+    height: 150px;
+    margin-left: 40%;
+    
+}
+#img2
+{
+    width: 200px;
+    height: 200px;
+    margin-left: 79%;
+    margin-top: -50%;
+}
+
+h3
+{
+    color: rgb(132, 132, 231);
+    margin-left: 20%;
+    height:25px;
+}
+#table1,td,th
+{
+border-collapse: collapse;
+border:1px solid gray;
+margin-left:15px;
+    width: 1000px;
+    text-align: center;
+    height:30px;
+}
+/* #table2
+{
+    border-collapse: collapse;
+    width: 90%;
+    height:5px;
+    border:1px solid gray;
+} */
+.table3{
+    border-collapse: collapse;
+    height:150px;
+    width:90%;
+    margin-left:40px;
+    margin-bottom: 20px;
+
+}
+th{
+    width: 20%;
+    height: 25%;
+}
+th,td{
+    padding:10px;
+
+}
+
+
+thead{
+    background-color: rgb(128, 128, 142);
+    color: white;
+    height: 70px;
+}
+tfoot
+{
+    background-color: rgb(194, 194, 207);
+}
